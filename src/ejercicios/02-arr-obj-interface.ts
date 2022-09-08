@@ -2,7 +2,7 @@
     ===== Código de TypeScript =====
 */
 
-let habilidades: string[] = ['Ascuas','Nitrocarga','Placaje','Quemar'];
+let habilidades: string[] = ['Ascuas','Nitrocarga','Superquemadura','Salto'];
 
 interface Personaje {
     nombre: string;

@@ -17,10 +17,10 @@ interface Detalles {
 const reproductor: Reproductor = {
     volumen: 90,
     segundo: 36,
-    cancion: 'Mess',
+    cancion: 'Enemy',
     detalles: {
-        autor: 'Ed Sheeran',
-        anio: 2015
+        autor: 'Imagine Dragons',
+        anio: 2021
     }
 }
 
